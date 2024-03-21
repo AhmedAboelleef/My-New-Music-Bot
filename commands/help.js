@@ -57,15 +57,15 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://cdn.discordapp.com/attachments/1150827819547504741/1168917372267151370/standard.gif?ex=65538222&is=65410d22&hm=b4994392f44679da41fc9304eb69deaa3769e136057556deec0db69ae8d33a97&')
+       .setImage('https://cdn.discordapp.com/attachments/822025329253023766/1220339109818531922/banner.gif?ex=660e945c&is=65fc1f5c&hm=11fe1be165bed70e4ea9417bff537530fd265e376779cf57f462848e18bba2df&')
       const button1 = new ButtonBuilder()
-        .setLabel('YouTube')
-        .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+        .setLabel('Instagram')
+        .setURL('https://www.instagram.com/5.ni3_?igsh=ajQ3dHNkNWpjcDNz&utm_source=qr')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
-        .setURL('https://discord.gg/FUEHs7RCqz')
+        .setURL('https://discord.gg/BEHqBCCAGE')
         .setStyle(ButtonStyle.Link);
 
       const button3 = new ButtonBuilder()
