@@ -3,8 +3,8 @@ module.exports = {
   ownerID: ["1004206704994566164", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://aboelleef:gaming@cluster0.aomvugm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-  status: 'RTXX GG',
+  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  status: 'DARK GG',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -13,7 +13,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://discord.gg/BEHqBCCAGE",
   },
 
   voteManager: {
